@@ -1,1 +1,1 @@
-# management-plan
+# 一个学生管理小程序
