@@ -1,5 +1,6 @@
 #coding=utf-8 
 '''
+env: python3.5
 name : zipeng
 E-mail : z.zipeng@qq.com
 原理性
