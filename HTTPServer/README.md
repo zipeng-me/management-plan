@@ -1,6 +1,7 @@
 ##原理性理解：
+-------
 
-
+<br>
 
 #结构:
 
@@ -18,4 +19,7 @@
                             --settings （框架配置）
                             --WebFrame.py (主程序代码）
 
+
+<br>
+<br>
 ![Image text](https://raw.githubusercontent.com/zipeng-me/management-plan/master/HTTPServer/photos/p.png)
