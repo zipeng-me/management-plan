@@ -17,3 +17,5 @@
                             --urls.py （存放路由）
                             --settings （框架配置）
                             --WebFrame.py (主程序代码）
+
+![Image text]https://raw.githubusercontent.com/zipeng-me/management-plan/master/HTTPServer/photos/p.png
