@@ -1,7 +1,8 @@
 #coding=utf-8 
 '''
-name : Levi
-time : 2018-10-1
+name : zipeng
+E-mail : z.zipeng@qq.com
+原理性
 '''
 from socket import *
 import sys 
